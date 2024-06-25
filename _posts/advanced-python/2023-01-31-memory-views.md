@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Python Memory Views: An Underrated Tool for Effective Memory Management"
-date:   2023-01-31 07:25:37 +0000
+title: "Python Memory Views: An Underrated Tool for Effective Memory Management"
+date: 2023-01-31 07:25:37 +0000
 categories: memory views python
 ---
 
@@ -48,9 +48,9 @@ print(arr)
 
 Memory views can be useful for a variety of tasks, including:
 
-* Processing large arrays of data
-* Sharing data between different parts of your code
-* Improving the performance of memory-intensive operations
+- Processing large arrays of data
+- Sharing data between different parts of your code
+- Improving the performance of memory-intensive operations
 
 ### Conclusion
 
