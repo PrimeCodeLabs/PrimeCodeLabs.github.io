@@ -2,7 +2,7 @@
 layout: post
 title: "Advanced Memory Management in Python: Understanding the Garbage Collector and Optimising Memory Usage"
 date: 2024-06-25 17:57:37 +0000
-categories: memory views python
+categories: advanced memory python
 ---
 
 # Advanced Memory Management in Python
